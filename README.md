@@ -14,7 +14,7 @@ Group member:
   
   Noah Simpson
  
-``
+
 
 ## Week 5 Checkpoint Update
 Because statistics and causal inference knowledges are widely involved in this project, schedule for the first 5 weeks were comprehending Athey's work and reading through related open-source github codes. Therefore, codes that replicates the results of the paper will be completed in the next half quarter.
