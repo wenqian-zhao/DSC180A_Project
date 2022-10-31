@@ -2,7 +2,7 @@
 
 Group project for DSC Capstone
 
-The ultimate goal by the end of fall quarter is to replicate the result from the work *Recursive partitioning for heterogeneous causal effects*.
+The ultimate goal by the end of fall quarter is to replicate the results in the work *Recursive partitioning for heterogeneous causal effects*.
 
 Group member:
 
@@ -15,3 +15,5 @@ Group member:
   Noah Simpson
  
 ``
+
+`Week 5 Checkpoint Update`
