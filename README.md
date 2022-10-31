@@ -2,7 +2,11 @@
 
 Group project for DSC Capstone 
 Group member:
+
   Xue Wang
-  Huaning Liu 
+  
+  Huaning Liu
+  
   Wenqian Zhao 
+  
   Noah Simpson
