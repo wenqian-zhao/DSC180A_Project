@@ -1,6 +1,8 @@
 # DSC180A_Project
 
 Group project for DSC Capstone 
+
+
 Group member:
 
   Xue Wang
@@ -10,3 +12,4 @@ Group member:
   Wenqian Zhao 
   
   Noah Simpson
+ 
