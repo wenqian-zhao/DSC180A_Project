@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "wenqianzhao/my_first_docker_hub_repo:latest",
+    "build-script": "python run.py"
+}
